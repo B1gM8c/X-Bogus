@@ -8,7 +8,9 @@
 python3 server.py
 ```
 
-然后通过POST请求`/X-Bogus`，请求体需要使用JSON格式，内容如下
+### 接口调用方法
+
+通过POST请求`/X-Bogus`，请求体需要使用JSON格式，内容如下
 
 ```
 {
